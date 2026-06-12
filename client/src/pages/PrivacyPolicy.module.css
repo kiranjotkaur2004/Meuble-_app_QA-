@@ -1,0 +1,36 @@
+.aboutcarousel {
+  margin: 100px;
+}
+.abtxt {
+  color: #493628;
+  font-size: 15px;
+}
+.abtxtstart {
+  color: #493628;
+}
+.txt {
+  color: #ab886d;
+}
+.btn {
+  display: block;
+  color: aliceblue;
+  background-color: #493628;
+  margin-top: 1px;
+  font-size: 20px;
+  border: 2px solid transparent;
+  border-radius: 10px;
+}
+.btn:hover {
+  color: aliceblue;
+  background-color: #ab886d;
+  border: 2px solid #f79f1f;
+  border-radius: 10px;
+}
+.image {
+  border: 5px solid transparent;
+  border-radius: 10px;
+}
+.image:hover {
+  border: 5px solid #f79f1f;
+  border-radius: 10px;
+}

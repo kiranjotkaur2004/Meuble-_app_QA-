@@ -1,0 +1,14 @@
+.lists {
+  text-decoration: none !important;
+}
+.lists:active {
+  background-color: #854836 !important;
+  color: #ffffff !important;
+}
+.lists:hover {
+  background-color: #854836 !important;
+  color: #ffffff !important;
+}
+.admin {
+  color: #854836 !important;
+}
