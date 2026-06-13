@@ -3,7 +3,7 @@
 ## Project Overview
 Meuble App is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) e-commerce application designed with a strong focus on Quality Assurance (QA) and API testing.
 
-During development, Postman was extensively used to test and validate REST APIs, ensuring functional correctness, proper response handling, accurate error management, and overall backend stability.
+**During development, Postman was extensively used to test and validate REST APIs, ensuring functional correctness, proper response handling, accurate error management, and overall backend stability.**
 
 ## Tech Stack
 - React.js (Frontend)
